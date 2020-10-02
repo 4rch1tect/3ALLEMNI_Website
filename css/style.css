@@ -1,0 +1,124 @@
+.padding {
+  padding-bottom: 3cm;
+  padding-right: 3cm;
+}
+
+.longwidth {
+  width: 40px;
+  height: 60px;
+}
+
+.color2 {
+  color: #9575CF;
+}
+
+.color {
+  color: #2A55C4;
+}
+
+.color3 {
+  color: #752FFA;
+}
+
+.padding2 {
+  padding-top: 0.6cm;
+}
+
+.padding3 {
+  padding-right: 5cm;
+}
+
+.padding4 {
+  padding-left: 30cm;
+}
+
+.padding5 {
+  padding-bottom: 3cm;
+}
+
+.text {
+  text-align: center;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+.police {
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+}
+
+.padding21 {
+  padding-top: 1cm;
+}
+
+.center {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.rouge {
+  color: red;
+}
+
+.size {
+  font-size: 20px;
+}
+
+.size2 {
+  font-size: 45px;
+}
+
+.luck {
+  padding-left: 6cm;
+}
+
+.gradient-button {
+  margin: 10px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 20px;
+  padding: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: #FFF;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  width: 200px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+  cursor: pointer;
+  display: inline-block;
+  border-radius: 25px;
+}
+
+.gradient-button:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  margin: 8px 10px 12px;
+}
+
+.gradient-button-3 {
+  background-image: linear-gradient(to right, #7474BF 0%, #348AC7 51%, #7474BF 100%)
+}
+
+.gradient-button-3:hover {
+  background-position: right center;
+}
+
+.gradient-button-2 {
+  background-image: linear-gradient(to right, #2BC0E4 0%, #EAECC6 51%, #2BC0E4 100%)
+}
+
+.gradient-button-2:hover {
+  background-position: right center;
+}
+
+.color5{
+  color: #090979;
+}
+.color6{
+  color: #fc466b;
+}
